@@ -14,7 +14,7 @@ A simple and responsive calendar built using **HTML**, **CSS**, and **JavaScript
 
 ## Live Demo
 
-> [🌐 ]()
+> [🌐CHECK today date ](https://github.com/pratiksha04th/MiniCalender.git)
 
 ## 🛠️ Technologies Used
 
