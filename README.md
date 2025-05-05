@@ -2,19 +2,21 @@
 
 A simple and responsive calendar built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates how to create an interactive calendar that displays the current month, highlights the current day, and year.
 
-## 🚀 Features
+## ✨ Features
 
-- Displays the current day,month and year
-- Highlights today's date
-- Lightweight and dependency-free
+- ✅ Highlights **today's date**
+- 📆 Navigate between **previous** and **next months**
+- 📱 **Responsive design** for desktop and mobile
+- ⚡ Fast and lightweight — no dependencies
+- 💡 Clean UI for easy integration or customization
 
-## 🖼️ UI
+## 🖼️ Preview
 
 ![Calendar Screenshot](screenshot.png)
 
-## Live Demo
+## 🌐 Live Demo
 
-> [🌐CHECK today date ]()
+👉 >[Try it Now ](https://pratiksha04th.github.io/MiniCalender/)
 
 ## 🛠️ Technologies Used
 
