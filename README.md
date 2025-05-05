@@ -16,4 +16,4 @@ A simple and responsive calendar built using **HTML**, **CSS**, and **JavaScript
 
 - **HTML5** – For the structure
 - **CSS3** – For styling and layout
-- **JavaScript (Vanilla)** – For logic and interactivity
+- **JavaScript** – For logic and interactivity
