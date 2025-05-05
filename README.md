@@ -8,9 +8,13 @@ A simple and responsive calendar built using **HTML**, **CSS**, and **JavaScript
 - Highlights today's date
 - Lightweight and dependency-free
 
-## 🖼️ Demo
+## 🖼️ UI
 
 ![Calendar Screenshot](screenshot.png)
+
+## Live Demo
+
+> [🌐 ]()
 
 ## 🛠️ Technologies Used
 
