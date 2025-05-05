@@ -16,7 +16,7 @@ A simple and responsive calendar built using **HTML**, **CSS**, and **JavaScript
 
 ## 🌐 Live Demo
 
-👉 >[Try it Now ](https://pratiksha04th.github.io/MiniCalender/)
+👉 [Try it Now ](https://pratiksha04th.github.io/MiniCalender/)
 
 ## 🛠️ Technologies Used
 
